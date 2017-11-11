@@ -1,4 +1,4 @@
-// Test.cpp
+// Test.h
 #ifndef GRADLE_TEST_H
 #define GRADLE_TEST_H
 
